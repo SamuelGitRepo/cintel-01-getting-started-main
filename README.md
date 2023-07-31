@@ -1,8 +1,8 @@
 # Continuous Intelligence and Interactive Analytics - Getting Started
 
-- GitHub Pages Website: [cintel-01-getting-started](https://SamuelRepo.github.io/cintel-01-getting-started/)
+- GitHub Pages Website: [cintel-01-getting-started](https://SamuelT.github.io/cintel-01-getting-started/)
 - GitHub Repository: [cintel-01-getting-started](https://github.com/SamuelRepo/cintel-01-getting-started)
-- Author: [Denise Case](https://github.com/SamuelRepo)
+- Author: [Samuel Case](https://github.com/SamuelRepo)
 
 
 We begin with two important tools: Git and VS Code. 
@@ -52,7 +52,7 @@ We customize this web app by changing the name and colors. We'll get exposure to
     
 1. Open VS Code and from the menu, select **View** / **Command Palette**.
 1. Type "Git: Clone" in the command palette and select it.
-1. Enter the URL (web address) of your forked GitHub repository (make sure it contains your GitHub username - not denisecase).
+1. Enter the URL (web address) of your forked GitHub repository (make sure it contains your GitHub username - not SamuelT).
 1. Choose a directory on your local machine (e.g., Documents folder) to store the project.
 1. If prompted, sign in to GitHub from VS Code.
 
@@ -62,7 +62,7 @@ With your repo folder open in VS Code:
 
 1. Click on this README.md file for editing.
 1. Update the README.md file by changing your name in the author link above.
-1. Update the links in the README.md file to your username instead of denisecase.
+1. Update the links in the README.md file to your username instead of SamuelT.
 
 ### Save Your Changes
 
